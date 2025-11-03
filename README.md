@@ -25,3 +25,5 @@ El objetivo era realizar el modelado de datos de un conjunto de tablas relaciona
 
 ## 📊 Resultado
 El modelo final cumple con las buenas prácticas de Power BI, con relaciones de 1 a muchos, limpieza de campos innecesarios y un modelo estrella completamente funcional.
+
+📊 Archivo Power BI: [Descargar Proyecto_PowerBI_ModeloEstrella.pbix](./Proyecto_PowerBI_ModeloEstrella.pbix)
